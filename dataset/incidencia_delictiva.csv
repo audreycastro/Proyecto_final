@@ -1,0 +1,361 @@
+﻿anio,mes,mes_num,estado,tipo_delito,cantidad
+2023,Enero,1,Baja California,Homicidio,85
+2023,Enero,1,Baja California,Secuestro,5
+2023,Enero,1,Baja California,Robo,746
+2023,Enero,1,Baja California,Violencia familiar,374
+2023,Enero,1,Baja California,Extorsión,89
+2023,Enero,1,Sinaloa,Homicidio,139
+2023,Enero,1,Sinaloa,Secuestro,11
+2023,Enero,1,Sinaloa,Robo,880
+2023,Enero,1,Sinaloa,Violencia familiar,327
+2023,Enero,1,Sinaloa,Extorsión,176
+2023,Enero,1,Chihuahua,Homicidio,189
+2023,Enero,1,Chihuahua,Secuestro,7
+2023,Enero,1,Chihuahua,Robo,602
+2023,Enero,1,Chihuahua,Violencia familiar,416
+2023,Enero,1,Chihuahua,Extorsión,54
+2023,Febrero,2,Baja California,Homicidio,62
+2023,Febrero,2,Baja California,Secuestro,7
+2023,Febrero,2,Baja California,Robo,452
+2023,Febrero,2,Baja California,Violencia familiar,350
+2023,Febrero,2,Baja California,Extorsión,125
+2023,Febrero,2,Sinaloa,Homicidio,72
+2023,Febrero,2,Sinaloa,Secuestro,28
+2023,Febrero,2,Sinaloa,Robo,521
+2023,Febrero,2,Sinaloa,Violencia familiar,735
+2023,Febrero,2,Sinaloa,Extorsión,172
+2023,Febrero,2,Chihuahua,Homicidio,189
+2023,Febrero,2,Chihuahua,Secuestro,18
+2023,Febrero,2,Chihuahua,Robo,412
+2023,Febrero,2,Chihuahua,Violencia familiar,429
+2023,Febrero,2,Chihuahua,Extorsión,125
+2023,Marzo,3,Baja California,Homicidio,133
+2023,Marzo,3,Baja California,Secuestro,33
+2023,Marzo,3,Baja California,Robo,819
+2023,Marzo,3,Baja California,Violencia familiar,223
+2023,Marzo,3,Baja California,Extorsión,161
+2023,Marzo,3,Sinaloa,Homicidio,117
+2023,Marzo,3,Sinaloa,Secuestro,35
+2023,Marzo,3,Sinaloa,Robo,670
+2023,Marzo,3,Sinaloa,Violencia familiar,486
+2023,Marzo,3,Sinaloa,Extorsión,110
+2023,Marzo,3,Chihuahua,Homicidio,89
+2023,Marzo,3,Chihuahua,Secuestro,11
+2023,Marzo,3,Chihuahua,Robo,790
+2023,Marzo,3,Chihuahua,Violencia familiar,590
+2023,Marzo,3,Chihuahua,Extorsión,93
+2023,Abril,4,Baja California,Homicidio,83
+2023,Abril,4,Baja California,Secuestro,7
+2023,Abril,4,Baja California,Robo,543
+2023,Abril,4,Baja California,Violencia familiar,273
+2023,Abril,4,Baja California,Extorsión,104
+2023,Abril,4,Sinaloa,Homicidio,179
+2023,Abril,4,Sinaloa,Secuestro,31
+2023,Abril,4,Sinaloa,Robo,565
+2023,Abril,4,Sinaloa,Violencia familiar,288
+2023,Abril,4,Sinaloa,Extorsión,185
+2023,Abril,4,Chihuahua,Homicidio,167
+2023,Abril,4,Chihuahua,Secuestro,22
+2023,Abril,4,Chihuahua,Robo,363
+2023,Abril,4,Chihuahua,Violencia familiar,393
+2023,Abril,4,Chihuahua,Extorsión,60
+2023,Mayo,5,Baja California,Homicidio,210
+2023,Mayo,5,Baja California,Secuestro,15
+2023,Mayo,5,Baja California,Robo,796
+2023,Mayo,5,Baja California,Violencia familiar,573
+2023,Mayo,5,Baja California,Extorsión,141
+2023,Mayo,5,Sinaloa,Homicidio,184
+2023,Mayo,5,Sinaloa,Secuestro,29
+2023,Mayo,5,Sinaloa,Robo,517
+2023,Mayo,5,Sinaloa,Violencia familiar,728
+2023,Mayo,5,Sinaloa,Extorsión,75
+2023,Mayo,5,Chihuahua,Homicidio,61
+2023,Mayo,5,Chihuahua,Secuestro,26
+2023,Mayo,5,Chihuahua,Robo,416
+2023,Mayo,5,Chihuahua,Violencia familiar,595
+2023,Mayo,5,Chihuahua,Extorsión,87
+2023,Junio,6,Baja California,Homicidio,77
+2023,Junio,6,Baja California,Secuestro,13
+2023,Junio,6,Baja California,Robo,817
+2023,Junio,6,Baja California,Violencia familiar,276
+2023,Junio,6,Baja California,Extorsión,107
+2023,Junio,6,Sinaloa,Homicidio,157
+2023,Junio,6,Sinaloa,Secuestro,24
+2023,Junio,6,Sinaloa,Robo,812
+2023,Junio,6,Sinaloa,Violencia familiar,501
+2023,Junio,6,Sinaloa,Extorsión,91
+2023,Junio,6,Chihuahua,Homicidio,144
+2023,Junio,6,Chihuahua,Secuestro,16
+2023,Junio,6,Chihuahua,Robo,407
+2023,Junio,6,Chihuahua,Violencia familiar,543
+2023,Junio,6,Chihuahua,Extorsión,84
+2023,Julio,7,Baja California,Homicidio,74
+2023,Julio,7,Baja California,Secuestro,26
+2023,Julio,7,Baja California,Robo,687
+2023,Julio,7,Baja California,Violencia familiar,315
+2023,Julio,7,Baja California,Extorsión,129
+2023,Julio,7,Sinaloa,Homicidio,145
+2023,Julio,7,Sinaloa,Secuestro,13
+2023,Julio,7,Sinaloa,Robo,696
+2023,Julio,7,Sinaloa,Violencia familiar,512
+2023,Julio,7,Sinaloa,Extorsión,109
+2023,Julio,7,Chihuahua,Homicidio,192
+2023,Julio,7,Chihuahua,Secuestro,12
+2023,Julio,7,Chihuahua,Robo,650
+2023,Julio,7,Chihuahua,Violencia familiar,366
+2023,Julio,7,Chihuahua,Extorsión,148
+2023,Agosto,8,Baja California,Homicidio,70
+2023,Agosto,8,Baja California,Secuestro,13
+2023,Agosto,8,Baja California,Robo,792
+2023,Agosto,8,Baja California,Violencia familiar,237
+2023,Agosto,8,Baja California,Extorsión,99
+2023,Agosto,8,Sinaloa,Homicidio,197
+2023,Agosto,8,Sinaloa,Secuestro,16
+2023,Agosto,8,Sinaloa,Robo,432
+2023,Agosto,8,Sinaloa,Violencia familiar,400
+2023,Agosto,8,Sinaloa,Extorsión,158
+2023,Agosto,8,Chihuahua,Homicidio,130
+2023,Agosto,8,Chihuahua,Secuestro,11
+2023,Agosto,8,Chihuahua,Robo,635
+2023,Agosto,8,Chihuahua,Violencia familiar,455
+2023,Agosto,8,Chihuahua,Extorsión,100
+2023,Septiembre,9,Baja California,Homicidio,183
+2023,Septiembre,9,Baja California,Secuestro,9
+2023,Septiembre,9,Baja California,Robo,478
+2023,Septiembre,9,Baja California,Violencia familiar,298
+2023,Septiembre,9,Baja California,Extorsión,89
+2023,Septiembre,9,Sinaloa,Homicidio,250
+2023,Septiembre,9,Sinaloa,Secuestro,28
+2023,Septiembre,9,Sinaloa,Robo,564
+2023,Septiembre,9,Sinaloa,Violencia familiar,756
+2023,Septiembre,9,Sinaloa,Extorsión,161
+2023,Septiembre,9,Chihuahua,Homicidio,159
+2023,Septiembre,9,Chihuahua,Secuestro,23
+2023,Septiembre,9,Chihuahua,Robo,504
+2023,Septiembre,9,Chihuahua,Violencia familiar,385
+2023,Septiembre,9,Chihuahua,Extorsión,78
+2023,Octubre,10,Baja California,Homicidio,93
+2023,Octubre,10,Baja California,Secuestro,23
+2023,Octubre,10,Baja California,Robo,607
+2023,Octubre,10,Baja California,Violencia familiar,270
+2023,Octubre,10,Baja California,Extorsión,160
+2023,Octubre,10,Sinaloa,Homicidio,80
+2023,Octubre,10,Sinaloa,Secuestro,10
+2023,Octubre,10,Sinaloa,Robo,491
+2023,Octubre,10,Sinaloa,Violencia familiar,677
+2023,Octubre,10,Sinaloa,Extorsión,91
+2023,Octubre,10,Chihuahua,Homicidio,158
+2023,Octubre,10,Chihuahua,Secuestro,24
+2023,Octubre,10,Chihuahua,Robo,332
+2023,Octubre,10,Chihuahua,Violencia familiar,397
+2023,Octubre,10,Chihuahua,Extorsión,98
+2023,Noviembre,11,Baja California,Homicidio,185
+2023,Noviembre,11,Baja California,Secuestro,23
+2023,Noviembre,11,Baja California,Robo,470
+2023,Noviembre,11,Baja California,Violencia familiar,531
+2023,Noviembre,11,Baja California,Extorsión,56
+2023,Noviembre,11,Sinaloa,Homicidio,102
+2023,Noviembre,11,Sinaloa,Secuestro,33
+2023,Noviembre,11,Sinaloa,Robo,978
+2023,Noviembre,11,Sinaloa,Violencia familiar,616
+2023,Noviembre,11,Sinaloa,Extorsión,189
+2023,Noviembre,11,Chihuahua,Homicidio,118
+2023,Noviembre,11,Chihuahua,Secuestro,29
+2023,Noviembre,11,Chihuahua,Robo,628
+2023,Noviembre,11,Chihuahua,Violencia familiar,374
+2023,Noviembre,11,Chihuahua,Extorsión,64
+2023,Diciembre,12,Baja California,Homicidio,137
+2023,Diciembre,12,Baja California,Secuestro,19
+2023,Diciembre,12,Baja California,Robo,418
+2023,Diciembre,12,Baja California,Violencia familiar,475
+2023,Diciembre,12,Baja California,Extorsión,55
+2023,Diciembre,12,Sinaloa,Homicidio,152
+2023,Diciembre,12,Sinaloa,Secuestro,27
+2023,Diciembre,12,Sinaloa,Robo,897
+2023,Diciembre,12,Sinaloa,Violencia familiar,378
+2023,Diciembre,12,Sinaloa,Extorsión,148
+2023,Diciembre,12,Chihuahua,Homicidio,77
+2023,Diciembre,12,Chihuahua,Secuestro,25
+2023,Diciembre,12,Chihuahua,Robo,452
+2023,Diciembre,12,Chihuahua,Violencia familiar,527
+2023,Diciembre,12,Chihuahua,Extorsión,114
+2024,Enero,1,Baja California,Homicidio,110
+2024,Enero,1,Baja California,Secuestro,9
+2024,Enero,1,Baja California,Robo,540
+2024,Enero,1,Baja California,Violencia familiar,649
+2024,Enero,1,Baja California,Extorsión,77
+2024,Enero,1,Sinaloa,Homicidio,244
+2024,Enero,1,Sinaloa,Secuestro,37
+2024,Enero,1,Sinaloa,Robo,1003
+2024,Enero,1,Sinaloa,Violencia familiar,612
+2024,Enero,1,Sinaloa,Extorsión,65
+2024,Enero,1,Chihuahua,Homicidio,132
+2024,Enero,1,Chihuahua,Secuestro,20
+2024,Enero,1,Chihuahua,Robo,309
+2024,Enero,1,Chihuahua,Violencia familiar,257
+2024,Enero,1,Chihuahua,Extorsión,96
+2024,Febrero,2,Baja California,Homicidio,140
+2024,Febrero,2,Baja California,Secuestro,13
+2024,Febrero,2,Baja California,Robo,361
+2024,Febrero,2,Baja California,Violencia familiar,355
+2024,Febrero,2,Baja California,Extorsión,134
+2024,Febrero,2,Sinaloa,Homicidio,91
+2024,Febrero,2,Sinaloa,Secuestro,9
+2024,Febrero,2,Sinaloa,Robo,876
+2024,Febrero,2,Sinaloa,Violencia familiar,582
+2024,Febrero,2,Sinaloa,Extorsión,75
+2024,Febrero,2,Chihuahua,Homicidio,186
+2024,Febrero,2,Chihuahua,Secuestro,29
+2024,Febrero,2,Chihuahua,Robo,364
+2024,Febrero,2,Chihuahua,Violencia familiar,265
+2024,Febrero,2,Chihuahua,Extorsión,134
+2024,Marzo,3,Baja California,Homicidio,188
+2024,Marzo,3,Baja California,Secuestro,24
+2024,Marzo,3,Baja California,Robo,422
+2024,Marzo,3,Baja California,Violencia familiar,368
+2024,Marzo,3,Baja California,Extorsión,128
+2024,Marzo,3,Sinaloa,Homicidio,205
+2024,Marzo,3,Sinaloa,Secuestro,14
+2024,Marzo,3,Sinaloa,Robo,1007
+2024,Marzo,3,Sinaloa,Violencia familiar,618
+2024,Marzo,3,Sinaloa,Extorsión,189
+2024,Marzo,3,Chihuahua,Homicidio,101
+2024,Marzo,3,Chihuahua,Secuestro,27
+2024,Marzo,3,Chihuahua,Robo,459
+2024,Marzo,3,Chihuahua,Violencia familiar,404
+2024,Marzo,3,Chihuahua,Extorsión,135
+2024,Abril,4,Baja California,Homicidio,159
+2024,Abril,4,Baja California,Secuestro,20
+2024,Abril,4,Baja California,Robo,836
+2024,Abril,4,Baja California,Violencia familiar,510
+2024,Abril,4,Baja California,Extorsión,117
+2024,Abril,4,Sinaloa,Homicidio,104
+2024,Abril,4,Sinaloa,Secuestro,15
+2024,Abril,4,Sinaloa,Robo,539
+2024,Abril,4,Sinaloa,Violencia familiar,301
+2024,Abril,4,Sinaloa,Extorsión,120
+2024,Abril,4,Chihuahua,Homicidio,55
+2024,Abril,4,Chihuahua,Secuestro,23
+2024,Abril,4,Chihuahua,Robo,583
+2024,Abril,4,Chihuahua,Violencia familiar,317
+2024,Abril,4,Chihuahua,Extorsión,125
+2024,Mayo,5,Baja California,Homicidio,116
+2024,Mayo,5,Baja California,Secuestro,5
+2024,Mayo,5,Baja California,Robo,369
+2024,Mayo,5,Baja California,Violencia familiar,618
+2024,Mayo,5,Baja California,Extorsión,143
+2024,Mayo,5,Sinaloa,Homicidio,84
+2024,Mayo,5,Sinaloa,Secuestro,15
+2024,Mayo,5,Sinaloa,Robo,434
+2024,Mayo,5,Sinaloa,Violencia familiar,280
+2024,Mayo,5,Sinaloa,Extorsión,119
+2024,Mayo,5,Chihuahua,Homicidio,68
+2024,Mayo,5,Chihuahua,Secuestro,21
+2024,Mayo,5,Chihuahua,Robo,421
+2024,Mayo,5,Chihuahua,Violencia familiar,342
+2024,Mayo,5,Chihuahua,Extorsión,135
+2024,Junio,6,Baja California,Homicidio,191
+2024,Junio,6,Baja California,Secuestro,12
+2024,Junio,6,Baja California,Robo,633
+2024,Junio,6,Baja California,Violencia familiar,293
+2024,Junio,6,Baja California,Extorsión,156
+2024,Junio,6,Sinaloa,Homicidio,254
+2024,Junio,6,Sinaloa,Secuestro,29
+2024,Junio,6,Sinaloa,Robo,704
+2024,Junio,6,Sinaloa,Violencia familiar,421
+2024,Junio,6,Sinaloa,Extorsión,195
+2024,Junio,6,Chihuahua,Homicidio,171
+2024,Junio,6,Chihuahua,Secuestro,30
+2024,Junio,6,Chihuahua,Robo,508
+2024,Junio,6,Chihuahua,Violencia familiar,297
+2024,Junio,6,Chihuahua,Extorsión,62
+2024,Julio,7,Baja California,Homicidio,81
+2024,Julio,7,Baja California,Secuestro,28
+2024,Julio,7,Baja California,Robo,572
+2024,Julio,7,Baja California,Violencia familiar,419
+2024,Julio,7,Baja California,Extorsión,114
+2024,Julio,7,Sinaloa,Homicidio,201
+2024,Julio,7,Sinaloa,Secuestro,24
+2024,Julio,7,Sinaloa,Robo,964
+2024,Julio,7,Sinaloa,Violencia familiar,744
+2024,Julio,7,Sinaloa,Extorsión,72
+2024,Julio,7,Chihuahua,Homicidio,75
+2024,Julio,7,Chihuahua,Secuestro,6
+2024,Julio,7,Chihuahua,Robo,506
+2024,Julio,7,Chihuahua,Violencia familiar,572
+2024,Julio,7,Chihuahua,Extorsión,93
+2024,Agosto,8,Baja California,Homicidio,84
+2024,Agosto,8,Baja California,Secuestro,13
+2024,Agosto,8,Baja California,Robo,437
+2024,Agosto,8,Baja California,Violencia familiar,326
+2024,Agosto,8,Baja California,Extorsión,129
+2024,Agosto,8,Sinaloa,Homicidio,213
+2024,Agosto,8,Sinaloa,Secuestro,11
+2024,Agosto,8,Sinaloa,Robo,670
+2024,Agosto,8,Sinaloa,Violencia familiar,380
+2024,Agosto,8,Sinaloa,Extorsión,110
+2024,Agosto,8,Chihuahua,Homicidio,168
+2024,Agosto,8,Chihuahua,Secuestro,12
+2024,Agosto,8,Chihuahua,Robo,747
+2024,Agosto,8,Chihuahua,Violencia familiar,238
+2024,Agosto,8,Chihuahua,Extorsión,106
+2024,Septiembre,9,Baja California,Homicidio,209
+2024,Septiembre,9,Baja California,Secuestro,8
+2024,Septiembre,9,Baja California,Robo,357
+2024,Septiembre,9,Baja California,Violencia familiar,586
+2024,Septiembre,9,Baja California,Extorsión,130
+2024,Septiembre,9,Sinaloa,Homicidio,68
+2024,Septiembre,9,Sinaloa,Secuestro,9
+2024,Septiembre,9,Sinaloa,Robo,1006
+2024,Septiembre,9,Sinaloa,Violencia familiar,760
+2024,Septiembre,9,Sinaloa,Extorsión,104
+2024,Septiembre,9,Chihuahua,Homicidio,92
+2024,Septiembre,9,Chihuahua,Secuestro,18
+2024,Septiembre,9,Chihuahua,Robo,548
+2024,Septiembre,9,Chihuahua,Violencia familiar,446
+2024,Septiembre,9,Chihuahua,Extorsión,77
+2024,Octubre,10,Baja California,Homicidio,167
+2024,Octubre,10,Baja California,Secuestro,6
+2024,Octubre,10,Baja California,Robo,422
+2024,Octubre,10,Baja California,Violencia familiar,433
+2024,Octubre,10,Baja California,Extorsión,55
+2024,Octubre,10,Sinaloa,Homicidio,193
+2024,Octubre,10,Sinaloa,Secuestro,16
+2024,Octubre,10,Sinaloa,Robo,1006
+2024,Octubre,10,Sinaloa,Violencia familiar,561
+2024,Octubre,10,Sinaloa,Extorsión,111
+2024,Octubre,10,Chihuahua,Homicidio,158
+2024,Octubre,10,Chihuahua,Secuestro,27
+2024,Octubre,10,Chihuahua,Robo,790
+2024,Octubre,10,Chihuahua,Violencia familiar,574
+2024,Octubre,10,Chihuahua,Extorsión,150
+2024,Noviembre,11,Baja California,Homicidio,211
+2024,Noviembre,11,Baja California,Secuestro,28
+2024,Noviembre,11,Baja California,Robo,733
+2024,Noviembre,11,Baja California,Violencia familiar,493
+2024,Noviembre,11,Baja California,Extorsión,75
+2024,Noviembre,11,Sinaloa,Homicidio,127
+2024,Noviembre,11,Sinaloa,Secuestro,18
+2024,Noviembre,11,Sinaloa,Robo,534
+2024,Noviembre,11,Sinaloa,Violencia familiar,297
+2024,Noviembre,11,Sinaloa,Extorsión,161
+2024,Noviembre,11,Chihuahua,Homicidio,188
+2024,Noviembre,11,Chihuahua,Secuestro,6
+2024,Noviembre,11,Chihuahua,Robo,682
+2024,Noviembre,11,Chihuahua,Violencia familiar,360
+2024,Noviembre,11,Chihuahua,Extorsión,57
+2024,Diciembre,12,Baja California,Homicidio,68
+2024,Diciembre,12,Baja California,Secuestro,25
+2024,Diciembre,12,Baja California,Robo,598
+2024,Diciembre,12,Baja California,Violencia familiar,502
+2024,Diciembre,12,Baja California,Extorsión,128
+2024,Diciembre,12,Sinaloa,Homicidio,117
+2024,Diciembre,12,Sinaloa,Secuestro,7
+2024,Diciembre,12,Sinaloa,Robo,1028
+2024,Diciembre,12,Sinaloa,Violencia familiar,598
+2024,Diciembre,12,Sinaloa,Extorsión,78
+2024,Diciembre,12,Chihuahua,Homicidio,97
+2024,Diciembre,12,Chihuahua,Secuestro,7
+2024,Diciembre,12,Chihuahua,Robo,604
+2024,Diciembre,12,Chihuahua,Violencia familiar,234
+2024,Diciembre,12,Chihuahua,Extorsión,136
