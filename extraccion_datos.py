@@ -1,3 +1,5 @@
+#profe como nota: el sraping al parecer funciona pero por alguna razon no saca los datos:'((
+#asi que dejo el codigo entero pero en la capeta de datasets estan los arhivos csv que se supone el codigo debio sacar para usar.
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -480,4 +482,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
