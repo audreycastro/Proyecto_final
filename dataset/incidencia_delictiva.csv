@@ -1,0 +1,1441 @@
+anio,mes,mes_num,estado,tipo_delito,subtipo_delito,modalidad,cantidad,fecha,periodo
+2023,Enero,1,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,19,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,12,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,11,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,23,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,15,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,25,2023-06,Junio 2023
+2023,Julio,7,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,12,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,26,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,6,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,16,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,6,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,5,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,26,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,21,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,14,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,19,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,16,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,24,2024-06,Junio 2024
+2024,Julio,7,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,29,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,9,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,11,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,13,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,8,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso,Con violencia,18,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,25,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,24,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,19,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,19,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,18,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,8,2023-06,Junio 2023
+2023,Julio,7,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,12,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,6,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,26,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,8,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,22,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,6,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,20,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,12,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,25,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,19,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,28,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,17,2024-06,Junio 2024
+2024,Julio,7,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,19,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,5,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,11,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,28,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,16,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso,Sin violencia,28,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,12,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,9,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,11,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,16,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,20,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,28,2023-06,Junio 2023
+2023,Julio,7,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,7,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,26,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,5,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,19,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,5,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,27,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,13,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,14,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,17,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,11,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,8,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,8,2024-06,Junio 2024
+2024,Julio,7,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,11,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,6,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,29,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,16,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,24,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,15,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,27,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,29,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,29,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,29,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,17,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,11,2023-06,Junio 2023
+2023,Julio,7,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,9,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,14,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,26,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,28,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,21,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,16,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,6,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,21,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,21,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,21,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,6,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,27,2024-06,Junio 2024
+2024,Julio,7,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,23,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,6,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,16,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,27,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,21,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,28,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Secuestro,Secuestro,No especificado,6,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Secuestro,Secuestro,No especificado,7,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Secuestro,Secuestro,No especificado,1,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Secuestro,Secuestro,No especificado,3,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Secuestro,Secuestro,No especificado,5,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Secuestro,Secuestro,No especificado,4,2023-06,Junio 2023
+2023,Julio,7,Baja California,Secuestro,Secuestro,No especificado,3,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Secuestro,Secuestro,No especificado,7,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Secuestro,Secuestro,No especificado,1,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Secuestro,Secuestro,No especificado,7,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Secuestro,Secuestro,No especificado,1,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Secuestro,Secuestro,No especificado,4,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Secuestro,Secuestro,No especificado,3,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Secuestro,Secuestro,No especificado,4,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Secuestro,Secuestro,No especificado,1,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Secuestro,Secuestro,No especificado,1,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Secuestro,Secuestro,No especificado,1,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Secuestro,Secuestro,No especificado,6,2024-06,Junio 2024
+2024,Julio,7,Baja California,Secuestro,Secuestro,No especificado,5,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Secuestro,Secuestro,No especificado,3,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Secuestro,Secuestro,No especificado,1,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Secuestro,Secuestro,No especificado,3,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Secuestro,Secuestro,No especificado,3,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Secuestro,Secuestro,No especificado,1,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Secuestro,Secuestro,Sin violencia,3,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Secuestro,Secuestro,Sin violencia,4,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Secuestro,Secuestro,Sin violencia,4,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Secuestro,Secuestro,Sin violencia,6,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Secuestro,Secuestro,Sin violencia,1,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Secuestro,Secuestro,Sin violencia,2,2023-06,Junio 2023
+2023,Julio,7,Baja California,Secuestro,Secuestro,Sin violencia,6,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Secuestro,Secuestro,Sin violencia,2,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Secuestro,Secuestro,Sin violencia,3,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Secuestro,Secuestro,Sin violencia,1,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Secuestro,Secuestro,Sin violencia,4,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Secuestro,Secuestro,Sin violencia,7,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Secuestro,Secuestro,Sin violencia,1,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Secuestro,Secuestro,Sin violencia,6,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Secuestro,Secuestro,Sin violencia,6,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Secuestro,Secuestro,Sin violencia,6,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Secuestro,Secuestro,Sin violencia,3,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Secuestro,Secuestro,Sin violencia,3,2024-06,Junio 2024
+2024,Julio,7,Baja California,Secuestro,Secuestro,Sin violencia,2,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Secuestro,Secuestro,Sin violencia,6,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Secuestro,Secuestro,Sin violencia,4,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Secuestro,Secuestro,Sin violencia,1,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Secuestro,Secuestro,Sin violencia,3,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Secuestro,Secuestro,Sin violencia,3,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Secuestro,Secuestro exprés,No especificado,4,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Secuestro,Secuestro exprés,No especificado,5,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Secuestro,Secuestro exprés,No especificado,3,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Secuestro,Secuestro exprés,No especificado,1,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Secuestro,Secuestro exprés,No especificado,5,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Secuestro,Secuestro exprés,No especificado,5,2023-06,Junio 2023
+2023,Julio,7,Baja California,Secuestro,Secuestro exprés,No especificado,3,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Secuestro,Secuestro exprés,No especificado,7,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Secuestro,Secuestro exprés,No especificado,2,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Secuestro,Secuestro exprés,No especificado,2,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Secuestro,Secuestro exprés,No especificado,2,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Secuestro,Secuestro exprés,No especificado,6,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Secuestro,Secuestro exprés,No especificado,2,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Secuestro,Secuestro exprés,No especificado,7,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Secuestro,Secuestro exprés,No especificado,7,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Secuestro,Secuestro exprés,No especificado,3,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Secuestro,Secuestro exprés,No especificado,2,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Secuestro,Secuestro exprés,No especificado,1,2024-06,Junio 2024
+2024,Julio,7,Baja California,Secuestro,Secuestro exprés,No especificado,3,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Secuestro,Secuestro exprés,No especificado,5,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Secuestro,Secuestro exprés,No especificado,3,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Secuestro,Secuestro exprés,No especificado,1,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Secuestro,Secuestro exprés,No especificado,4,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Secuestro,Secuestro exprés,No especificado,1,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Secuestro,Secuestro exprés,Sin violencia,5,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Secuestro,Secuestro exprés,Sin violencia,1,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Secuestro,Secuestro exprés,Sin violencia,6,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Secuestro,Secuestro exprés,Sin violencia,7,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Secuestro,Secuestro exprés,Sin violencia,2,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Secuestro,Secuestro exprés,Sin violencia,7,2023-06,Junio 2023
+2023,Julio,7,Baja California,Secuestro,Secuestro exprés,Sin violencia,3,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Secuestro,Secuestro exprés,Sin violencia,6,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Secuestro,Secuestro exprés,Sin violencia,6,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Secuestro,Secuestro exprés,Sin violencia,2,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Secuestro,Secuestro exprés,Sin violencia,1,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Secuestro,Secuestro exprés,Sin violencia,7,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Secuestro,Secuestro exprés,Sin violencia,3,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Secuestro,Secuestro exprés,Sin violencia,1,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Secuestro,Secuestro exprés,Sin violencia,5,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Secuestro,Secuestro exprés,Sin violencia,4,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Secuestro,Secuestro exprés,Sin violencia,5,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Secuestro,Secuestro exprés,Sin violencia,4,2024-06,Junio 2024
+2024,Julio,7,Baja California,Secuestro,Secuestro exprés,Sin violencia,5,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Secuestro,Secuestro exprés,Sin violencia,6,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Secuestro,Secuestro exprés,Sin violencia,3,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Secuestro,Secuestro exprés,Sin violencia,4,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Secuestro,Secuestro exprés,Sin violencia,2,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Secuestro,Secuestro exprés,Sin violencia,2,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Robo,Robo a casa habitación,No especificado,112,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Robo,Robo a casa habitación,No especificado,141,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Robo,Robo a casa habitación,No especificado,232,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Robo,Robo a casa habitación,No especificado,278,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Robo,Robo a casa habitación,No especificado,111,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Robo,Robo a casa habitación,No especificado,176,2023-06,Junio 2023
+2023,Julio,7,Baja California,Robo,Robo a casa habitación,No especificado,189,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Robo,Robo a casa habitación,No especificado,107,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Robo,Robo a casa habitación,No especificado,50,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Robo,Robo a casa habitación,No especificado,145,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Robo,Robo a casa habitación,No especificado,167,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Robo,Robo a casa habitación,No especificado,138,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Robo,Robo a casa habitación,No especificado,178,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Robo,Robo a casa habitación,No especificado,238,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Robo,Robo a casa habitación,No especificado,71,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Robo,Robo a casa habitación,No especificado,296,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Robo,Robo a casa habitación,No especificado,203,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Robo,Robo a casa habitación,No especificado,234,2024-06,Junio 2024
+2024,Julio,7,Baja California,Robo,Robo a casa habitación,No especificado,255,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Robo,Robo a casa habitación,No especificado,96,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Robo,Robo a casa habitación,No especificado,287,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Robo,Robo a casa habitación,No especificado,88,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Robo,Robo a casa habitación,No especificado,82,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Robo,Robo a casa habitación,No especificado,72,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Robo,Robo a casa habitación,Con violencia,295,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Robo,Robo a casa habitación,Con violencia,149,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Robo,Robo a casa habitación,Con violencia,229,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Robo,Robo a casa habitación,Con violencia,299,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Robo,Robo a casa habitación,Con violencia,50,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Robo,Robo a casa habitación,Con violencia,286,2023-06,Junio 2023
+2023,Julio,7,Baja California,Robo,Robo a casa habitación,Con violencia,65,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Robo,Robo a casa habitación,Con violencia,129,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Robo,Robo a casa habitación,Con violencia,290,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Robo,Robo a casa habitación,Con violencia,209,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Robo,Robo a casa habitación,Con violencia,201,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Robo,Robo a casa habitación,Con violencia,227,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Robo,Robo a casa habitación,Con violencia,82,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Robo,Robo a casa habitación,Con violencia,61,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Robo,Robo a casa habitación,Con violencia,114,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Robo,Robo a casa habitación,Con violencia,92,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Robo,Robo a casa habitación,Con violencia,78,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Robo,Robo a casa habitación,Con violencia,144,2024-06,Junio 2024
+2024,Julio,7,Baja California,Robo,Robo a casa habitación,Con violencia,179,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Robo,Robo a casa habitación,Con violencia,264,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Robo,Robo a casa habitación,Con violencia,139,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Robo,Robo a casa habitación,Con violencia,142,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Robo,Robo a casa habitación,Con violencia,211,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Robo,Robo a casa habitación,Con violencia,154,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Robo,Robo de vehículo,Con violencia,294,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Robo,Robo de vehículo,Con violencia,286,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Robo,Robo de vehículo,Con violencia,206,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Robo,Robo de vehículo,Con violencia,213,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Robo,Robo de vehículo,Con violencia,298,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Robo,Robo de vehículo,Con violencia,150,2023-06,Junio 2023
+2023,Julio,7,Baja California,Robo,Robo de vehículo,Con violencia,289,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Robo,Robo de vehículo,Con violencia,259,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Robo,Robo de vehículo,Con violencia,201,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Robo,Robo de vehículo,Con violencia,61,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Robo,Robo de vehículo,Con violencia,232,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Robo,Robo de vehículo,Con violencia,72,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Robo,Robo de vehículo,Con violencia,154,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Robo,Robo de vehículo,Con violencia,66,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Robo,Robo de vehículo,Con violencia,111,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Robo,Robo de vehículo,Con violencia,161,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Robo,Robo de vehículo,Con violencia,190,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Robo,Robo de vehículo,Con violencia,226,2024-06,Junio 2024
+2024,Julio,7,Baja California,Robo,Robo de vehículo,Con violencia,189,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Robo,Robo de vehículo,Con violencia,58,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Robo,Robo de vehículo,Con violencia,255,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Robo,Robo de vehículo,Con violencia,101,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Robo,Robo de vehículo,Con violencia,299,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Robo,Robo de vehículo,Con violencia,193,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Robo,Robo de vehículo,Sin violencia,118,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Robo,Robo de vehículo,Sin violencia,189,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Robo,Robo de vehículo,Sin violencia,229,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Robo,Robo de vehículo,Sin violencia,262,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Robo,Robo de vehículo,Sin violencia,200,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Robo,Robo de vehículo,Sin violencia,88,2023-06,Junio 2023
+2023,Julio,7,Baja California,Robo,Robo de vehículo,Sin violencia,230,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Robo,Robo de vehículo,Sin violencia,235,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Robo,Robo de vehículo,Sin violencia,182,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Robo,Robo de vehículo,Sin violencia,195,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Robo,Robo de vehículo,Sin violencia,58,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Robo,Robo de vehículo,Sin violencia,235,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Robo,Robo de vehículo,Sin violencia,223,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Robo,Robo de vehículo,Sin violencia,227,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Robo,Robo de vehículo,Sin violencia,171,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Robo,Robo de vehículo,Sin violencia,78,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Robo,Robo de vehículo,Sin violencia,185,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Robo,Robo de vehículo,Sin violencia,114,2024-06,Junio 2024
+2024,Julio,7,Baja California,Robo,Robo de vehículo,Sin violencia,293,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Robo,Robo de vehículo,Sin violencia,266,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Robo,Robo de vehículo,Sin violencia,181,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Robo,Robo de vehículo,Sin violencia,119,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Robo,Robo de vehículo,Sin violencia,238,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Robo,Robo de vehículo,Sin violencia,231,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Robo,Robo a negocio,Sin violencia,68,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Robo,Robo a negocio,Sin violencia,175,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Robo,Robo a negocio,Sin violencia,107,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Robo,Robo a negocio,Sin violencia,176,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Robo,Robo a negocio,Sin violencia,216,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Robo,Robo a negocio,Sin violencia,180,2023-06,Junio 2023
+2023,Julio,7,Baja California,Robo,Robo a negocio,Sin violencia,239,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Robo,Robo a negocio,Sin violencia,202,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Robo,Robo a negocio,Sin violencia,210,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Robo,Robo a negocio,Sin violencia,183,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Robo,Robo a negocio,Sin violencia,93,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Robo,Robo a negocio,Sin violencia,96,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Robo,Robo a negocio,Sin violencia,167,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Robo,Robo a negocio,Sin violencia,234,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Robo,Robo a negocio,Sin violencia,282,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Robo,Robo a negocio,Sin violencia,63,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Robo,Robo a negocio,Sin violencia,166,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Robo,Robo a negocio,Sin violencia,167,2024-06,Junio 2024
+2024,Julio,7,Baja California,Robo,Robo a negocio,Sin violencia,193,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Robo,Robo a negocio,Sin violencia,123,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Robo,Robo a negocio,Sin violencia,249,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Robo,Robo a negocio,Sin violencia,253,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Robo,Robo a negocio,Sin violencia,57,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Robo,Robo a negocio,Sin violencia,141,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Robo,Robo a negocio,Con violencia,185,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Robo,Robo a negocio,Con violencia,227,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Robo,Robo a negocio,Con violencia,269,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Robo,Robo a negocio,Con violencia,90,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Robo,Robo a negocio,Con violencia,84,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Robo,Robo a negocio,Con violencia,131,2023-06,Junio 2023
+2023,Julio,7,Baja California,Robo,Robo a negocio,Con violencia,246,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Robo,Robo a negocio,Con violencia,202,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Robo,Robo a negocio,Con violencia,105,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Robo,Robo a negocio,Con violencia,291,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Robo,Robo a negocio,Con violencia,54,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Robo,Robo a negocio,Con violencia,297,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Robo,Robo a negocio,Con violencia,167,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Robo,Robo a negocio,Con violencia,195,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Robo,Robo a negocio,Con violencia,134,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Robo,Robo a negocio,Con violencia,112,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Robo,Robo a negocio,Con violencia,108,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Robo,Robo a negocio,Con violencia,226,2024-06,Junio 2024
+2024,Julio,7,Baja California,Robo,Robo a negocio,Con violencia,154,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Robo,Robo a negocio,Con violencia,178,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Robo,Robo a negocio,Con violencia,55,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Robo,Robo a negocio,Con violencia,182,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Robo,Robo a negocio,Con violencia,52,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Robo,Robo a negocio,Con violencia,278,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Violencia familiar,Violencia familiar,Sin violencia,224,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Violencia familiar,Violencia familiar,Sin violencia,157,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Violencia familiar,Violencia familiar,Sin violencia,80,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Violencia familiar,Violencia familiar,Sin violencia,83,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Violencia familiar,Violencia familiar,Sin violencia,111,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Violencia familiar,Violencia familiar,Sin violencia,171,2023-06,Junio 2023
+2023,Julio,7,Baja California,Violencia familiar,Violencia familiar,Sin violencia,151,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Violencia familiar,Violencia familiar,Sin violencia,233,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Violencia familiar,Violencia familiar,Sin violencia,82,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Violencia familiar,Violencia familiar,Sin violencia,129,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Violencia familiar,Violencia familiar,Sin violencia,133,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Violencia familiar,Violencia familiar,Sin violencia,136,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Violencia familiar,Violencia familiar,Sin violencia,126,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Violencia familiar,Violencia familiar,Sin violencia,221,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Violencia familiar,Violencia familiar,Sin violencia,154,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Violencia familiar,Violencia familiar,Sin violencia,245,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Violencia familiar,Violencia familiar,Sin violencia,129,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Violencia familiar,Violencia familiar,Sin violencia,161,2024-06,Junio 2024
+2024,Julio,7,Baja California,Violencia familiar,Violencia familiar,Sin violencia,158,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Violencia familiar,Violencia familiar,Sin violencia,131,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Violencia familiar,Violencia familiar,Sin violencia,109,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Violencia familiar,Violencia familiar,Sin violencia,130,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Violencia familiar,Violencia familiar,Sin violencia,212,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Violencia familiar,Violencia familiar,Sin violencia,211,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Violencia familiar,Violencia familiar,No especificado,224,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Violencia familiar,Violencia familiar,No especificado,96,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Violencia familiar,Violencia familiar,No especificado,148,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Violencia familiar,Violencia familiar,No especificado,85,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Violencia familiar,Violencia familiar,No especificado,205,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Violencia familiar,Violencia familiar,No especificado,194,2023-06,Junio 2023
+2023,Julio,7,Baja California,Violencia familiar,Violencia familiar,No especificado,230,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Violencia familiar,Violencia familiar,No especificado,174,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Violencia familiar,Violencia familiar,No especificado,223,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Violencia familiar,Violencia familiar,No especificado,211,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Violencia familiar,Violencia familiar,No especificado,211,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Violencia familiar,Violencia familiar,No especificado,175,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Violencia familiar,Violencia familiar,No especificado,239,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Violencia familiar,Violencia familiar,No especificado,201,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Violencia familiar,Violencia familiar,No especificado,226,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Violencia familiar,Violencia familiar,No especificado,84,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Violencia familiar,Violencia familiar,No especificado,249,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Violencia familiar,Violencia familiar,No especificado,101,2024-06,Junio 2024
+2024,Julio,7,Baja California,Violencia familiar,Violencia familiar,No especificado,80,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Violencia familiar,Violencia familiar,No especificado,91,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Violencia familiar,Violencia familiar,No especificado,125,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Violencia familiar,Violencia familiar,No especificado,157,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Violencia familiar,Violencia familiar,No especificado,234,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Violencia familiar,Violencia familiar,No especificado,105,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,75,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,82,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,80,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,45,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,20,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,71,2023-06,Junio 2023
+2023,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,75,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,47,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,21,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,45,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,78,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,26,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,42,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,37,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,34,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,47,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,76,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,63,2024-06,Junio 2024
+2024,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,36,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,44,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,29,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,37,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,53,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas,Sin violencia,27,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,61,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,25,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,83,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,89,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,52,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,89,2023-06,Junio 2023
+2023,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,23,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,94,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,43,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,28,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,50,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,55,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,85,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,23,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,25,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,70,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,76,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,94,2024-06,Junio 2024
+2024,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,45,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,24,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,45,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,87,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,39,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas,No especificado,31,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,33,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,57,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,30,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,96,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,52,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,69,2023-06,Junio 2023
+2023,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,24,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,63,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,32,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,84,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,92,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,28,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,54,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,68,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,81,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,94,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,53,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,54,2024-06,Junio 2024
+2024,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,59,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,41,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,83,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,91,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,33,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,49,2024-12,Diciembre 2024
+2023,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,56,2023-01,Enero 2023
+2023,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,97,2023-02,Febrero 2023
+2023,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,23,2023-03,Marzo 2023
+2023,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,61,2023-04,Abril 2023
+2023,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,37,2023-05,Mayo 2023
+2023,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,91,2023-06,Junio 2023
+2023,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,33,2023-07,Julio 2023
+2023,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,70,2023-08,Agosto 2023
+2023,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,57,2023-09,Septiembre 2023
+2023,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,42,2023-10,Octubre 2023
+2023,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,34,2023-11,Noviembre 2023
+2023,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,70,2023-12,Diciembre 2023
+2024,Enero,1,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,70,2024-01,Enero 2024
+2024,Febrero,2,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,86,2024-02,Febrero 2024
+2024,Marzo,3,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,70,2024-03,Marzo 2024
+2024,Abril,4,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,83,2024-04,Abril 2024
+2024,Mayo,5,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,48,2024-05,Mayo 2024
+2024,Junio,6,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,46,2024-06,Junio 2024
+2024,Julio,7,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,76,2024-07,Julio 2024
+2024,Agosto,8,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,46,2024-08,Agosto 2024
+2024,Septiembre,9,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,87,2024-09,Septiembre 2024
+2024,Octubre,10,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,85,2024-10,Octubre 2024
+2024,Noviembre,11,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,24,2024-11,Noviembre 2024
+2024,Diciembre,12,Baja California,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,93,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,17,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,8,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,28,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,12,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,19,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,16,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,23,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,15,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,9,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,14,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,10,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,12,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,19,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,18,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,16,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,22,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,12,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,15,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,20,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,9,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,9,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,14,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,13,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso,No especificado,18,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,13,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,27,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,18,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,25,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,18,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,5,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,26,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,23,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,13,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,25,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,24,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,15,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,6,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,22,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,21,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,15,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,23,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,11,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,5,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,15,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,25,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,11,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,24,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso,Sin violencia,21,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,12,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,11,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,17,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,28,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,21,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,20,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,22,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,18,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,19,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,22,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,8,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,12,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,11,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,14,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,6,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,5,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,27,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,22,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,12,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,29,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,28,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,26,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,23,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,19,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,6,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,28,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,28,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,15,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,20,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,14,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,5,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,23,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,23,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,22,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,5,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,9,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,14,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,7,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,16,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,9,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,10,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,6,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,16,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,24,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,16,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,21,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,18,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Homicidio doloso,Homicidio doloso con arma de fuego,No especificado,21,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Secuestro,Secuestro,No especificado,1,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Secuestro,Secuestro,No especificado,2,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Secuestro,Secuestro,No especificado,7,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Secuestro,Secuestro,No especificado,3,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Secuestro,Secuestro,No especificado,2,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Secuestro,Secuestro,No especificado,5,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Secuestro,Secuestro,No especificado,7,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Secuestro,Secuestro,No especificado,3,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Secuestro,Secuestro,No especificado,2,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Secuestro,Secuestro,No especificado,5,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Secuestro,Secuestro,No especificado,4,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Secuestro,Secuestro,No especificado,6,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Secuestro,Secuestro,No especificado,1,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Secuestro,Secuestro,No especificado,4,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Secuestro,Secuestro,No especificado,5,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Secuestro,Secuestro,No especificado,6,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Secuestro,Secuestro,No especificado,1,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Secuestro,Secuestro,No especificado,6,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Secuestro,Secuestro,No especificado,4,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Secuestro,Secuestro,No especificado,7,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Secuestro,Secuestro,No especificado,5,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Secuestro,Secuestro,No especificado,6,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Secuestro,Secuestro,No especificado,2,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Secuestro,Secuestro,No especificado,3,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Secuestro,Secuestro,Con violencia,5,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Secuestro,Secuestro,Con violencia,3,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Secuestro,Secuestro,Con violencia,5,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Secuestro,Secuestro,Con violencia,3,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Secuestro,Secuestro,Con violencia,3,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Secuestro,Secuestro,Con violencia,3,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Secuestro,Secuestro,Con violencia,2,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Secuestro,Secuestro,Con violencia,7,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Secuestro,Secuestro,Con violencia,1,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Secuestro,Secuestro,Con violencia,7,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Secuestro,Secuestro,Con violencia,6,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Secuestro,Secuestro,Con violencia,3,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Secuestro,Secuestro,Con violencia,1,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Secuestro,Secuestro,Con violencia,1,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Secuestro,Secuestro,Con violencia,1,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Secuestro,Secuestro,Con violencia,3,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Secuestro,Secuestro,Con violencia,2,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Secuestro,Secuestro,Con violencia,7,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Secuestro,Secuestro,Con violencia,3,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Secuestro,Secuestro,Con violencia,4,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Secuestro,Secuestro,Con violencia,2,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Secuestro,Secuestro,Con violencia,3,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Secuestro,Secuestro,Con violencia,4,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Secuestro,Secuestro,Con violencia,5,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Secuestro,Secuestro exprés,No especificado,4,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Secuestro,Secuestro exprés,No especificado,3,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Secuestro,Secuestro exprés,No especificado,6,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Secuestro,Secuestro exprés,No especificado,2,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Secuestro,Secuestro exprés,No especificado,4,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Secuestro,Secuestro exprés,No especificado,2,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Secuestro,Secuestro exprés,No especificado,2,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Secuestro,Secuestro exprés,No especificado,2,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Secuestro,Secuestro exprés,No especificado,5,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Secuestro,Secuestro exprés,No especificado,2,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Secuestro,Secuestro exprés,No especificado,6,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Secuestro,Secuestro exprés,No especificado,5,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Secuestro,Secuestro exprés,No especificado,1,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Secuestro,Secuestro exprés,No especificado,2,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Secuestro,Secuestro exprés,No especificado,1,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Secuestro,Secuestro exprés,No especificado,7,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Secuestro,Secuestro exprés,No especificado,4,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,2,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,5,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,7,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,1,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,5,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,5,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,6,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,3,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,6,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,5,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,3,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,7,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,4,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,6,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,5,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,4,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,2,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,4,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,1,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,5,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,6,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,2,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,1,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Secuestro,Secuestro exprés,Sin violencia,7,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Robo,Robo a casa habitación,Sin violencia,245,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Robo,Robo a casa habitación,Sin violencia,236,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Robo,Robo a casa habitación,Sin violencia,110,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Robo,Robo a casa habitación,Sin violencia,247,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Robo,Robo a casa habitación,Sin violencia,233,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Robo,Robo a casa habitación,Sin violencia,95,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Robo,Robo a casa habitación,Sin violencia,60,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Robo,Robo a casa habitación,Sin violencia,126,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Robo,Robo a casa habitación,Sin violencia,53,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Robo,Robo a casa habitación,Sin violencia,121,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Robo,Robo a casa habitación,Sin violencia,112,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Robo,Robo a casa habitación,Sin violencia,166,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Robo,Robo a casa habitación,Sin violencia,123,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Robo,Robo a casa habitación,Sin violencia,275,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Robo,Robo a casa habitación,Sin violencia,267,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Robo,Robo a casa habitación,Sin violencia,169,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Robo,Robo a casa habitación,Sin violencia,54,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Robo,Robo a casa habitación,Sin violencia,103,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Robo,Robo a casa habitación,Sin violencia,264,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Robo,Robo a casa habitación,Sin violencia,148,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Robo,Robo a casa habitación,Sin violencia,171,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Robo,Robo a casa habitación,Sin violencia,172,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Robo,Robo a casa habitación,Sin violencia,111,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Robo,Robo a casa habitación,Sin violencia,209,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Robo,Robo a casa habitación,No especificado,169,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Robo,Robo a casa habitación,No especificado,288,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Robo,Robo a casa habitación,No especificado,122,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Robo,Robo a casa habitación,No especificado,191,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Robo,Robo a casa habitación,No especificado,147,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Robo,Robo a casa habitación,No especificado,154,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Robo,Robo a casa habitación,No especificado,172,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Robo,Robo a casa habitación,No especificado,186,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Robo,Robo a casa habitación,No especificado,219,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Robo,Robo a casa habitación,No especificado,256,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Robo,Robo a casa habitación,No especificado,74,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Robo,Robo a casa habitación,No especificado,188,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Robo,Robo a casa habitación,No especificado,256,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Robo,Robo a casa habitación,No especificado,121,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Robo,Robo a casa habitación,No especificado,225,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Robo,Robo a casa habitación,No especificado,195,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Robo,Robo a casa habitación,No especificado,109,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Robo,Robo a casa habitación,No especificado,246,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Robo,Robo a casa habitación,No especificado,163,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Robo,Robo a casa habitación,No especificado,94,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Robo,Robo a casa habitación,No especificado,142,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Robo,Robo a casa habitación,No especificado,235,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Robo,Robo a casa habitación,No especificado,105,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Robo,Robo a casa habitación,No especificado,147,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Robo,Robo de vehículo,Sin violencia,55,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Robo,Robo de vehículo,Sin violencia,217,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Robo,Robo de vehículo,Sin violencia,146,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Robo,Robo de vehículo,Sin violencia,108,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Robo,Robo de vehículo,Sin violencia,218,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Robo,Robo de vehículo,Sin violencia,156,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Robo,Robo de vehículo,Sin violencia,138,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Robo,Robo de vehículo,Sin violencia,240,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Robo,Robo de vehículo,Sin violencia,182,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Robo,Robo de vehículo,Sin violencia,107,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Robo,Robo de vehículo,Sin violencia,72,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Robo,Robo de vehículo,Sin violencia,209,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Robo,Robo de vehículo,Sin violencia,230,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Robo,Robo de vehículo,Sin violencia,208,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Robo,Robo de vehículo,Sin violencia,149,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Robo,Robo de vehículo,Sin violencia,255,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Robo,Robo de vehículo,Sin violencia,270,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Robo,Robo de vehículo,Sin violencia,88,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Robo,Robo de vehículo,Sin violencia,95,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Robo,Robo de vehículo,Sin violencia,282,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Robo,Robo de vehículo,Sin violencia,153,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Robo,Robo de vehículo,Sin violencia,237,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Robo,Robo de vehículo,Sin violencia,158,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Robo,Robo de vehículo,Sin violencia,260,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Robo,Robo de vehículo,Con violencia,282,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Robo,Robo de vehículo,Con violencia,205,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Robo,Robo de vehículo,Con violencia,128,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Robo,Robo de vehículo,Con violencia,270,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Robo,Robo de vehículo,Con violencia,245,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Robo,Robo de vehículo,Con violencia,277,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Robo,Robo de vehículo,Con violencia,268,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Robo,Robo de vehículo,Con violencia,61,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Robo,Robo de vehículo,Con violencia,167,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Robo,Robo de vehículo,Con violencia,267,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Robo,Robo de vehículo,Con violencia,259,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Robo,Robo de vehículo,Con violencia,63,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Robo,Robo de vehículo,Con violencia,253,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Robo,Robo de vehículo,Con violencia,253,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Robo,Robo de vehículo,Con violencia,78,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Robo,Robo de vehículo,Con violencia,82,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Robo,Robo de vehículo,Con violencia,160,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Robo,Robo de vehículo,Con violencia,209,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Robo,Robo de vehículo,Con violencia,264,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Robo,Robo de vehículo,Con violencia,275,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Robo,Robo de vehículo,Con violencia,53,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Robo,Robo de vehículo,Con violencia,190,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Robo,Robo de vehículo,Con violencia,64,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Robo,Robo de vehículo,Con violencia,78,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Robo,Robo a negocio,Sin violencia,81,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Robo,Robo a negocio,Sin violencia,224,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Robo,Robo a negocio,Sin violencia,71,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Robo,Robo a negocio,Sin violencia,244,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Robo,Robo a negocio,Sin violencia,175,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Robo,Robo a negocio,Sin violencia,270,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Robo,Robo a negocio,Sin violencia,96,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Robo,Robo a negocio,Sin violencia,236,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Robo,Robo a negocio,Sin violencia,55,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Robo,Robo a negocio,Sin violencia,50,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Robo,Robo a negocio,Sin violencia,173,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Robo,Robo a negocio,Sin violencia,211,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Robo,Robo a negocio,Sin violencia,290,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Robo,Robo a negocio,Sin violencia,73,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Robo,Robo a negocio,Sin violencia,67,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Robo,Robo a negocio,Sin violencia,285,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Robo,Robo a negocio,Sin violencia,121,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Robo,Robo a negocio,Sin violencia,223,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Robo,Robo a negocio,Sin violencia,102,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Robo,Robo a negocio,Sin violencia,128,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Robo,Robo a negocio,Sin violencia,223,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Robo,Robo a negocio,Sin violencia,293,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Robo,Robo a negocio,Sin violencia,142,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Robo,Robo a negocio,Sin violencia,109,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Robo,Robo a negocio,No especificado,180,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Robo,Robo a negocio,No especificado,64,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Robo,Robo a negocio,No especificado,175,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Robo,Robo a negocio,No especificado,277,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Robo,Robo a negocio,No especificado,215,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Robo,Robo a negocio,No especificado,263,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Robo,Robo a negocio,No especificado,179,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Robo,Robo a negocio,No especificado,121,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Robo,Robo a negocio,No especificado,113,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Robo,Robo a negocio,No especificado,70,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Robo,Robo a negocio,No especificado,271,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Robo,Robo a negocio,No especificado,131,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Robo,Robo a negocio,No especificado,288,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Robo,Robo a negocio,No especificado,215,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Robo,Robo a negocio,No especificado,60,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Robo,Robo a negocio,No especificado,266,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Robo,Robo a negocio,No especificado,151,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Robo,Robo a negocio,No especificado,60,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Robo,Robo a negocio,No especificado,90,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Robo,Robo a negocio,No especificado,170,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Robo,Robo a negocio,No especificado,209,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Robo,Robo a negocio,No especificado,103,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Robo,Robo a negocio,No especificado,141,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Robo,Robo a negocio,No especificado,51,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,195,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,245,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,169,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,222,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,198,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,183,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,202,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,88,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,152,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,239,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,193,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,151,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,141,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,141,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,206,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,163,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,213,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,101,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,82,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,120,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,93,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,166,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,220,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Violencia familiar,Violencia familiar,Sin violencia,124,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Violencia familiar,Violencia familiar,No especificado,226,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Violencia familiar,Violencia familiar,No especificado,179,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Violencia familiar,Violencia familiar,No especificado,198,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Violencia familiar,Violencia familiar,No especificado,111,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Violencia familiar,Violencia familiar,No especificado,123,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Violencia familiar,Violencia familiar,No especificado,225,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Violencia familiar,Violencia familiar,No especificado,175,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Violencia familiar,Violencia familiar,No especificado,184,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Violencia familiar,Violencia familiar,No especificado,210,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Violencia familiar,Violencia familiar,No especificado,172,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Violencia familiar,Violencia familiar,No especificado,214,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Violencia familiar,Violencia familiar,No especificado,128,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Violencia familiar,Violencia familiar,No especificado,238,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Violencia familiar,Violencia familiar,No especificado,227,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Violencia familiar,Violencia familiar,No especificado,83,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Violencia familiar,Violencia familiar,No especificado,205,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Violencia familiar,Violencia familiar,No especificado,231,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Violencia familiar,Violencia familiar,No especificado,175,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Violencia familiar,Violencia familiar,No especificado,243,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Violencia familiar,Violencia familiar,No especificado,177,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Violencia familiar,Violencia familiar,No especificado,158,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Violencia familiar,Violencia familiar,No especificado,118,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Violencia familiar,Violencia familiar,No especificado,204,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Violencia familiar,Violencia familiar,No especificado,210,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,40,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,45,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,61,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,97,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,56,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,57,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,81,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,33,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,21,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,36,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,47,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,54,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,84,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,42,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,50,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,29,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,33,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,93,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,29,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,20,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,39,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,62,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,76,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas,No especificado,47,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,56,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,63,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,47,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,98,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,80,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,97,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,92,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,39,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,48,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,54,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,88,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,39,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,69,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,76,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,75,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,42,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,64,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,99,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,27,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,20,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,48,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,24,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,66,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas,Sin violencia,84,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,36,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,27,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,95,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,65,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,20,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,99,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,67,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,81,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,92,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,67,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,92,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,50,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,23,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,38,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,32,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,94,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,73,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,34,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,95,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,52,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,54,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,30,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,91,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,97,2024-12,Diciembre 2024
+2023,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,85,2023-01,Enero 2023
+2023,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,22,2023-02,Febrero 2023
+2023,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,45,2023-03,Marzo 2023
+2023,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,67,2023-04,Abril 2023
+2023,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,45,2023-05,Mayo 2023
+2023,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,24,2023-06,Junio 2023
+2023,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,56,2023-07,Julio 2023
+2023,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,34,2023-08,Agosto 2023
+2023,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,67,2023-09,Septiembre 2023
+2023,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,89,2023-10,Octubre 2023
+2023,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,62,2023-11,Noviembre 2023
+2023,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,42,2023-12,Diciembre 2023
+2024,Enero,1,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,99,2024-01,Enero 2024
+2024,Febrero,2,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,34,2024-02,Febrero 2024
+2024,Marzo,3,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,55,2024-03,Marzo 2024
+2024,Abril,4,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,34,2024-04,Abril 2024
+2024,Mayo,5,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,40,2024-05,Mayo 2024
+2024,Junio,6,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,53,2024-06,Junio 2024
+2024,Julio,7,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,87,2024-07,Julio 2024
+2024,Agosto,8,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,71,2024-08,Agosto 2024
+2024,Septiembre,9,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,48,2024-09,Septiembre 2024
+2024,Octubre,10,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,27,2024-10,Octubre 2024
+2024,Noviembre,11,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,55,2024-11,Noviembre 2024
+2024,Diciembre,12,Sinaloa,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,68,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,29,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,15,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,16,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,11,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,28,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,28,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,24,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,11,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,5,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,17,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,19,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,17,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,26,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,25,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,13,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,14,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,29,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,14,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,28,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,9,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,22,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,8,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,11,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso,No especificado,22,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,19,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,7,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,6,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,25,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,19,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,14,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,17,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,7,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,25,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,14,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,11,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,18,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,8,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,14,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,11,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,18,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,12,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,8,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,13,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,5,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,10,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,21,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,6,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso,Sin violencia,16,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,10,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,7,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,7,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,10,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,27,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,10,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,6,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,24,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,26,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,8,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,19,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,20,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,29,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,20,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,21,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,12,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,20,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,17,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,23,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,26,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,24,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,28,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,5,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Con violencia,25,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,10,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,5,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,16,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,24,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,5,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,17,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,13,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,6,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,7,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,10,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,9,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,19,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,14,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,17,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,28,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,7,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,11,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,13,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,6,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,22,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,29,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,26,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,8,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Homicidio doloso,Homicidio doloso con arma de fuego,Sin violencia,18,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Secuestro,Secuestro,No especificado,6,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Secuestro,Secuestro,No especificado,4,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Secuestro,Secuestro,No especificado,3,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Secuestro,Secuestro,No especificado,1,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Secuestro,Secuestro,No especificado,2,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Secuestro,Secuestro,No especificado,5,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Secuestro,Secuestro,No especificado,7,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Secuestro,Secuestro,No especificado,5,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Secuestro,Secuestro,No especificado,4,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Secuestro,Secuestro,No especificado,6,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Secuestro,Secuestro,No especificado,2,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Secuestro,Secuestro,No especificado,7,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Secuestro,Secuestro,No especificado,5,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Secuestro,Secuestro,No especificado,6,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Secuestro,Secuestro,No especificado,4,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Secuestro,Secuestro,No especificado,3,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Secuestro,Secuestro,No especificado,3,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Secuestro,Secuestro,No especificado,1,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Secuestro,Secuestro,No especificado,6,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Secuestro,Secuestro,No especificado,2,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Secuestro,Secuestro,No especificado,7,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Secuestro,Secuestro,No especificado,1,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Secuestro,Secuestro,No especificado,5,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Secuestro,Secuestro,No especificado,4,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Secuestro,Secuestro,Sin violencia,4,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Secuestro,Secuestro,Sin violencia,4,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Secuestro,Secuestro,Sin violencia,1,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Secuestro,Secuestro,Sin violencia,4,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Secuestro,Secuestro,Sin violencia,4,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Secuestro,Secuestro,Sin violencia,6,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Secuestro,Secuestro,Sin violencia,5,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Secuestro,Secuestro,Sin violencia,5,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Secuestro,Secuestro,Sin violencia,3,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Secuestro,Secuestro,Sin violencia,6,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Secuestro,Secuestro,Sin violencia,5,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Secuestro,Secuestro,Sin violencia,6,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Secuestro,Secuestro,Sin violencia,5,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Secuestro,Secuestro,Sin violencia,1,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Secuestro,Secuestro,Sin violencia,5,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Secuestro,Secuestro,Sin violencia,5,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Secuestro,Secuestro,Sin violencia,7,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Secuestro,Secuestro exprés,No especificado,2,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Secuestro,Secuestro exprés,No especificado,4,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Secuestro,Secuestro exprés,No especificado,4,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Secuestro,Secuestro exprés,No especificado,3,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Secuestro,Secuestro exprés,No especificado,1,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Secuestro,Secuestro exprés,No especificado,1,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Secuestro,Secuestro exprés,No especificado,2,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Secuestro,Secuestro exprés,No especificado,2,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Secuestro,Secuestro exprés,No especificado,4,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Secuestro,Secuestro exprés,No especificado,4,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Secuestro,Secuestro exprés,No especificado,3,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Secuestro,Secuestro exprés,No especificado,1,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Secuestro,Secuestro exprés,No especificado,4,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Secuestro,Secuestro exprés,No especificado,3,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Secuestro,Secuestro exprés,No especificado,5,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Secuestro,Secuestro exprés,No especificado,2,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Secuestro,Secuestro exprés,No especificado,4,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,4,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,3,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,3,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,5,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,6,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,2,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,7,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,4,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,7,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,1,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,2,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,4,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,4,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,1,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,7,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,2,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,3,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,6,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,5,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,4,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,2,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,1,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,6,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Secuestro,Secuestro exprés,Sin violencia,2,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Robo,Robo a casa habitación,No especificado,293,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Robo,Robo a casa habitación,No especificado,228,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Robo,Robo a casa habitación,No especificado,169,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Robo,Robo a casa habitación,No especificado,81,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Robo,Robo a casa habitación,No especificado,88,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Robo,Robo a casa habitación,No especificado,282,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Robo,Robo a casa habitación,No especificado,198,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Robo,Robo a casa habitación,No especificado,185,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Robo,Robo a casa habitación,No especificado,153,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Robo,Robo a casa habitación,No especificado,200,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Robo,Robo a casa habitación,No especificado,199,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Robo,Robo a casa habitación,No especificado,71,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Robo,Robo a casa habitación,No especificado,78,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Robo,Robo a casa habitación,No especificado,259,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Robo,Robo a casa habitación,No especificado,78,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Robo,Robo a casa habitación,No especificado,99,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Robo,Robo a casa habitación,No especificado,256,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Robo,Robo a casa habitación,No especificado,93,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Robo,Robo a casa habitación,No especificado,220,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Robo,Robo a casa habitación,No especificado,233,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Robo,Robo a casa habitación,No especificado,240,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Robo,Robo a casa habitación,No especificado,68,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Robo,Robo a casa habitación,No especificado,206,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Robo,Robo a casa habitación,No especificado,88,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Robo,Robo a casa habitación,Sin violencia,160,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Robo,Robo a casa habitación,Sin violencia,177,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Robo,Robo a casa habitación,Sin violencia,185,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Robo,Robo a casa habitación,Sin violencia,235,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Robo,Robo a casa habitación,Sin violencia,178,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Robo,Robo a casa habitación,Sin violencia,54,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Robo,Robo a casa habitación,Sin violencia,242,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Robo,Robo a casa habitación,Sin violencia,153,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Robo,Robo a casa habitación,Sin violencia,155,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Robo,Robo a casa habitación,Sin violencia,284,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Robo,Robo a casa habitación,Sin violencia,198,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Robo,Robo a casa habitación,Sin violencia,95,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Robo,Robo a casa habitación,Sin violencia,218,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Robo,Robo a casa habitación,Sin violencia,62,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Robo,Robo a casa habitación,Sin violencia,293,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Robo,Robo a casa habitación,Sin violencia,283,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Robo,Robo a casa habitación,Sin violencia,107,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Robo,Robo a casa habitación,Sin violencia,61,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Robo,Robo a casa habitación,Sin violencia,170,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Robo,Robo a casa habitación,Sin violencia,69,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Robo,Robo a casa habitación,Sin violencia,193,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Robo,Robo a casa habitación,Sin violencia,105,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Robo,Robo a casa habitación,Sin violencia,235,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Robo,Robo a casa habitación,Sin violencia,160,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Robo,Robo de vehículo,No especificado,187,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Robo,Robo de vehículo,No especificado,295,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Robo,Robo de vehículo,No especificado,279,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Robo,Robo de vehículo,No especificado,281,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Robo,Robo de vehículo,No especificado,198,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Robo,Robo de vehículo,No especificado,223,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Robo,Robo de vehículo,No especificado,237,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Robo,Robo de vehículo,No especificado,222,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Robo,Robo de vehículo,No especificado,66,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Robo,Robo de vehículo,No especificado,120,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Robo,Robo de vehículo,No especificado,270,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Robo,Robo de vehículo,No especificado,52,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Robo,Robo de vehículo,No especificado,235,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Robo,Robo de vehículo,No especificado,293,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Robo,Robo de vehículo,No especificado,169,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Robo,Robo de vehículo,No especificado,211,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Robo,Robo de vehículo,No especificado,196,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Robo,Robo de vehículo,No especificado,196,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Robo,Robo de vehículo,No especificado,112,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Robo,Robo de vehículo,No especificado,260,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Robo,Robo de vehículo,No especificado,125,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Robo,Robo de vehículo,No especificado,107,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Robo,Robo de vehículo,No especificado,208,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Robo,Robo de vehículo,No especificado,241,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Robo,Robo de vehículo,Sin violencia,225,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Robo,Robo de vehículo,Sin violencia,232,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Robo,Robo de vehículo,Sin violencia,232,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Robo,Robo de vehículo,Sin violencia,165,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Robo,Robo de vehículo,Sin violencia,269,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Robo,Robo de vehículo,Sin violencia,252,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Robo,Robo de vehículo,Sin violencia,167,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Robo,Robo de vehículo,Sin violencia,210,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Robo,Robo de vehículo,Sin violencia,197,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Robo,Robo de vehículo,Sin violencia,268,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Robo,Robo de vehículo,Sin violencia,127,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Robo,Robo de vehículo,Sin violencia,124,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Robo,Robo de vehículo,Sin violencia,186,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Robo,Robo de vehículo,Sin violencia,193,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Robo,Robo de vehículo,Sin violencia,298,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Robo,Robo de vehículo,Sin violencia,187,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Robo,Robo de vehículo,Sin violencia,52,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Robo,Robo de vehículo,Sin violencia,162,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Robo,Robo de vehículo,Sin violencia,167,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Robo,Robo de vehículo,Sin violencia,158,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Robo,Robo de vehículo,Sin violencia,294,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Robo,Robo de vehículo,Sin violencia,95,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Robo,Robo de vehículo,Sin violencia,142,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Robo,Robo de vehículo,Sin violencia,214,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Robo,Robo a negocio,Sin violencia,241,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Robo,Robo a negocio,Sin violencia,149,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Robo,Robo a negocio,Sin violencia,139,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Robo,Robo a negocio,Sin violencia,175,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Robo,Robo a negocio,Sin violencia,291,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Robo,Robo a negocio,Sin violencia,73,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Robo,Robo a negocio,Sin violencia,149,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Robo,Robo a negocio,Sin violencia,90,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Robo,Robo a negocio,Sin violencia,157,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Robo,Robo a negocio,Sin violencia,80,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Robo,Robo a negocio,Sin violencia,201,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Robo,Robo a negocio,Sin violencia,262,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Robo,Robo a negocio,Sin violencia,155,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Robo,Robo a negocio,Sin violencia,269,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Robo,Robo a negocio,Sin violencia,212,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Robo,Robo a negocio,Sin violencia,169,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Robo,Robo a negocio,Sin violencia,129,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Robo,Robo a negocio,Sin violencia,266,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Robo,Robo a negocio,Sin violencia,93,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Robo,Robo a negocio,Sin violencia,94,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Robo,Robo a negocio,Sin violencia,133,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Robo,Robo a negocio,Sin violencia,299,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Robo,Robo a negocio,Sin violencia,234,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Robo,Robo a negocio,Sin violencia,245,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Robo,Robo a negocio,No especificado,119,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Robo,Robo a negocio,No especificado,192,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Robo,Robo a negocio,No especificado,177,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Robo,Robo a negocio,No especificado,214,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Robo,Robo a negocio,No especificado,70,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Robo,Robo a negocio,No especificado,118,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Robo,Robo a negocio,No especificado,136,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Robo,Robo a negocio,No especificado,196,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Robo,Robo a negocio,No especificado,138,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Robo,Robo a negocio,No especificado,177,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Robo,Robo a negocio,No especificado,298,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Robo,Robo a negocio,No especificado,245,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Robo,Robo a negocio,No especificado,283,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Robo,Robo a negocio,No especificado,135,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Robo,Robo a negocio,No especificado,130,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Robo,Robo a negocio,No especificado,110,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Robo,Robo a negocio,No especificado,77,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Robo,Robo a negocio,No especificado,218,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Robo,Robo a negocio,No especificado,226,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Robo,Robo a negocio,No especificado,147,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Robo,Robo a negocio,No especificado,114,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Robo,Robo a negocio,No especificado,134,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Robo,Robo a negocio,No especificado,51,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Robo,Robo a negocio,No especificado,161,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Violencia familiar,Violencia familiar,No especificado,177,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Violencia familiar,Violencia familiar,No especificado,204,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Violencia familiar,Violencia familiar,No especificado,155,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Violencia familiar,Violencia familiar,No especificado,247,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Violencia familiar,Violencia familiar,No especificado,138,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Violencia familiar,Violencia familiar,No especificado,178,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Violencia familiar,Violencia familiar,No especificado,128,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Violencia familiar,Violencia familiar,No especificado,214,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Violencia familiar,Violencia familiar,No especificado,99,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Violencia familiar,Violencia familiar,No especificado,147,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Violencia familiar,Violencia familiar,No especificado,195,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Violencia familiar,Violencia familiar,No especificado,158,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Violencia familiar,Violencia familiar,No especificado,171,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Violencia familiar,Violencia familiar,No especificado,234,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Violencia familiar,Violencia familiar,No especificado,247,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Violencia familiar,Violencia familiar,No especificado,107,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Violencia familiar,Violencia familiar,No especificado,192,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Violencia familiar,Violencia familiar,No especificado,232,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Violencia familiar,Violencia familiar,No especificado,123,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Violencia familiar,Violencia familiar,No especificado,121,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Violencia familiar,Violencia familiar,No especificado,246,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Violencia familiar,Violencia familiar,No especificado,168,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Violencia familiar,Violencia familiar,No especificado,226,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Violencia familiar,Violencia familiar,No especificado,90,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,153,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,231,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,243,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,151,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,216,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,222,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,121,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,91,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,86,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,210,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,82,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,193,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,119,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,87,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,239,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,186,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,83,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,98,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,216,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,218,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,198,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,208,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,188,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Violencia familiar,Violencia familiar,Sin violencia,100,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,47,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,78,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,46,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,44,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,87,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,39,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,24,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,69,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,79,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,30,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,92,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,95,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,40,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,60,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,66,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,77,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,76,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,67,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,41,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,88,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,30,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,34,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,54,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas,No especificado,35,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,59,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,58,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,20,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,82,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,23,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,57,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,76,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,72,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,33,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,28,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,96,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,25,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,65,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,33,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,91,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,38,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,97,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,44,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,33,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,41,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,70,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,61,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,92,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas,Con violencia,64,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,92,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,38,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,57,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,55,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,28,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,52,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,71,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,33,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,78,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,60,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,27,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,60,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,74,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,81,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,67,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,54,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,83,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,40,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,67,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,86,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,87,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,84,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,64,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Con violencia,66,2024-12,Diciembre 2024
+2023,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,73,2023-01,Enero 2023
+2023,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,65,2023-02,Febrero 2023
+2023,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,34,2023-03,Marzo 2023
+2023,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,38,2023-04,Abril 2023
+2023,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,71,2023-05,Mayo 2023
+2023,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,41,2023-06,Junio 2023
+2023,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,70,2023-07,Julio 2023
+2023,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,39,2023-08,Agosto 2023
+2023,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,74,2023-09,Septiembre 2023
+2023,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,47,2023-10,Octubre 2023
+2023,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,41,2023-11,Noviembre 2023
+2023,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,64,2023-12,Diciembre 2023
+2024,Enero,1,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,85,2024-01,Enero 2024
+2024,Febrero,2,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,74,2024-02,Febrero 2024
+2024,Marzo,3,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,20,2024-03,Marzo 2024
+2024,Abril,4,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,57,2024-04,Abril 2024
+2024,Mayo,5,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,44,2024-05,Mayo 2024
+2024,Junio,6,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,31,2024-06,Junio 2024
+2024,Julio,7,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,46,2024-07,Julio 2024
+2024,Agosto,8,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,84,2024-08,Agosto 2024
+2024,Septiembre,9,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,59,2024-09,Septiembre 2024
+2024,Octubre,10,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,67,2024-10,Octubre 2024
+2024,Noviembre,11,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,75,2024-11,Noviembre 2024
+2024,Diciembre,12,Chihuahua,Lesiones dolosas,Lesiones dolosas con arma de fuego,Sin violencia,65,2024-12,Diciembre 2024
